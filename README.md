@@ -1,4 +1,7 @@
-# Nacho Limits
+<p align="center"><img src="docs/logo.png" width="128" height="128" alt="Nacho Limits icon: a worried nacho chip with a bite taken out"></p>
+
+<h1 align="center">Nacho Limits</h1>
+<p align="center"><b>Your AI limits. Nacho problem.</b></p>
 
 Your AI plan limits in the MacBook notch: how much of each window you've used, when you'll run out at your current pace, and which account still has room. Free, for macOS 15 or later.
 
@@ -26,7 +29,11 @@ The app updates itself (Settings > General). On first launch it opens in the not
 - **GitHub Copilot** premium requests, **OpenRouter**, **NanoGPT**, **DeepSeek** and **Kimi**, with your own keys
 - **Anything else** through small scripts that print JSON ([how](https://nacholimits.hexadexa.io/scripts)), including ready-made ones for Anthropic and OpenAI API spend
 
-Closed, it shows the tightest limit beside the notch. Open, it has five views (List, Timeline, Accounts, Meters, Week), a detail for every row, alerts before you run out, and the account to use next. On screens without a notch it lives in the menu bar. Desktop widgets, Shortcuts and a `nacho` command for Terminal are included. English and Portuguese.
+Closed, it shows the tightest limit beside the notch. Open, it has five views (List, Timeline, Accounts, Meters, Week), a detail for every row, alerts before you run out, and the account to use next. On screens without a notch it lives in the menu bar, in colour or monochrome:
+
+<img src="docs/menu-bar.png" width="376" alt="The menu-bar item in colour and in monochrome, on dark and light menu bars">
+
+ Desktop widgets, Shortcuts and a `nacho` command for Terminal are included. English and Portuguese.
 
 | Week | Accounts |
 |---|---|
