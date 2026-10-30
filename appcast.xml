@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>NachoLimits</title>
+    <link>https://github.com/h3x4d3x4/NachoLimits-releases</link>
+    <description>NachoLimits updates</description>
+    <language>en</language>
+    <item>
+      <title>Nacho Limits 0.1.2</title>
+      <pubDate>Fri, 30 Oct 2026 02:05:41 GMT</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What&#x27;s new</h3>
+<ul><li>Nacho Limits can now update itself: right-click the notch and choose Check for Updates…, or use Settings &gt; General.</li><li>The closed notch now says whose limit it is (&quot;Max 98%&quot;), not just a number.</li><li>Codex can be turned off in Settings &gt; Providers.</li></ul>
+<h3>Fixes</h3>
+<ul><li>A fresh install no longer shows someone else&#x27;s account names; your accounts appear under their own folder names, ready to rename.</li><li>The DeepSeek and NanoGPT key fields are visible again, and pasting a key works.</li><li>Hovering the notch no longer flashes the wide layout before it opens.</li></ul>]]></description>
+      <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.1.2/NachoLimits.dmg" length="3384591" type="application/octet-stream" sparkle:edSignature="r7vtIFRQMUsQBNF1PWyo4F6aOF7FwaoDW7EsukoFuuBxbA9Dggz0+fjZJUBe1ISUftGg02Hj+Zy0E4WOEV4hCQ=="/>
+    </item>
+  </channel>
+</rss>
