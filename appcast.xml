@@ -58,5 +58,15 @@
 <ul><li>Clicking a notification opens the notch at that row. Alerts are silent unless you turn the sound on.</li><li>Problems are explained in plain words, with the button that fixes them.</li><li>Low-balance alerts compare each balance in its own currency.</li><li>Two identical monitors can be chosen separately.</li><li>Many accounts no longer get cut off: the panel scrolls.</li></ul>]]></description>
       <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.2.0/NachoLimits.dmg" length="5655800" type="application/octet-stream" sparkle:edSignature="MJpATN0hyBeuIyWXI0/BBw5Je/vTZ4ThjbZy+z1t/U/rjNkowPW28NhSOZWLB+IC1uqFJHiILMAQxJZsUVFnDA=="/>
     </item>
+    <item>
+      <title>Nacho Limits 0.2.1</title>
+      <pubDate>Fri, 30 Oct 2026 16:48:35 GMT</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Fixes</h3>
+<ul><li>Nacho now hides over full-screen games, including borderless ones and games that take over the mouse. He comes back when you leave the game, and still shows if you push the pointer against the top edge.</li></ul>]]></description>
+      <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.2.1/NachoLimits.dmg" length="5661395" type="application/octet-stream" sparkle:edSignature="uuNCjpIA1Rb97ahhdKk4zBuq7z0rz3sFaPzba+OYJ4ZsXeuH2adJWctkPocHGC+5nPAzpxdBsootQBrU/olyBA=="/>
+    </item>
   </channel>
 </rss>
