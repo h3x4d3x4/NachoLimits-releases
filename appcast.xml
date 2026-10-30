@@ -46,5 +46,17 @@
 <ul><li>Nacho moved into your notch: a tiny face on the left shows how your tightest limit is doing (calm, getting warm, sweating, out, napping after a reset). Prefer a ring or nothing? Settings &gt; Display &gt; Left side.</li></ul>]]></description>
       <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.1.5/NachoLimits.dmg" length="3414859" type="application/octet-stream" sparkle:edSignature="hKcuhzUmw2Gm+c/Qlm0WrwpcTNna31jMrKkxno3efxiq2FdcR/+G5rahis8H9wubjXEsVhfB/kaN05Hm/4dqBw=="/>
     </item>
+    <item>
+      <title>Nacho Limits 0.2.0</title>
+      <pubDate>Fri, 30 Oct 2026 16:25:19 GMT</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What&#x27;s new</h3>
+<ul><li><strong>Knows when you&#x27;ll run out, more honestly.</strong> Pace now follows your last hour of use, not the whole window&#x27;s average, and shows a safe rate that lasts to the reset.</li><li><strong>What to use next, in one click.</strong> &quot;Most room&quot; now counts the weekly limit too. Launch opens Claude Code on that account in Terminal (or iTerm); you can also copy the command.</li><li><strong>Click any row</strong> for a 24-hour chart, burn rate, reset time and the last four weeks. Right-click to pin, hide, rename or launch.</li><li><strong>Week view:</strong> which windows ran out, when you were close, your busiest hours, and a card to share.</li><li><strong>More services:</strong> GitHub Copilot (premium requests), OpenRouter and Kimi are built in. Ready-made scripts add Anthropic and OpenAI API spend against a budget you set.</li><li><strong>Outside the notch:</strong> desktop widgets, Spotlight and Shortcuts (&quot;tightest limit&quot;, &quot;which account has room&quot;), and the `nacho` command for Terminal.</li><li><strong>First run in the notch:</strong> Nacho walks you through connecting Claude Code.</li><li><strong>Settings</strong> has tabs now, with a live preview of the closed notch and a shortcut you can change.</li><li><strong>Nacho</strong> blinks, sweats and hops when a window resets, and says what the numbers mean. Settings &gt; General turns his lines off.</li><li><strong>Portuguese (Portugal).</strong></li><li>Optional: mark Claude and OpenAI incidents from their public status pages (off by default).</li></ul>
+<h3>Fixes</h3>
+<ul><li>Clicking a notification opens the notch at that row. Alerts are silent unless you turn the sound on.</li><li>Problems are explained in plain words, with the button that fixes them.</li><li>Low-balance alerts compare each balance in its own currency.</li><li>Two identical monitors can be chosen separately.</li><li>Many accounts no longer get cut off: the panel scrolls.</li></ul>]]></description>
+      <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.2.0/NachoLimits.dmg" length="5655800" type="application/octet-stream" sparkle:edSignature="MJpATN0hyBeuIyWXI0/BBw5Je/vTZ4ThjbZy+z1t/U/rjNkowPW28NhSOZWLB+IC1uqFJHiILMAQxJZsUVFnDA=="/>
+    </item>
   </channel>
 </rss>
