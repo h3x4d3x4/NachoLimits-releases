@@ -80,5 +80,15 @@
 <ul><li>Only one screen opens at a time: hovering or opening Nacho on one screen closes it on the other.</li><li>VoiceOver can open the panel from the menu-bar item.</li><li>Check for Updates always shows its window: it no longer opens hidden behind the app you&#x27;re using, under the open notch, or not at all while a background check was running.</li><li>The floating pill under the menu bar is gone; the menu-bar item replaces it.</li><li>Opening Nacho Limits while another copy is running closes the other one, so it never shows twice.</li></ul>]]></description>
       <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.2.2/NachoLimits.dmg" length="5722821" type="application/octet-stream" sparkle:edSignature="HRy0m2cacsESfJFyPTyT0PHH6WNF2HWnkexMF1XiadeDOSvzvJPD9aI3SiQhs/lbCSrIDKCRb5zXYnD2W4ULBg=="/>
     </item>
+    <item>
+      <title>Nacho Limits 0.2.3</title>
+      <pubDate>Fri, 30 Oct 2026 18:18:59 GMT</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What&#x27;s new</h3>
+<ul><li><strong>Hide Nacho with a shortcut:</strong> ⌃⌥⌘N hides him from the notch and the menu bar, so the space next to the notch is free (for example for the menu bar&#x27;s overflow arrow). Press it again to bring him back; opening Nacho Limits or the open shortcut (⌥⌘U) also does. Change it in Settings &gt; General, or use Hide Nacho in the right-click menu.</li></ul>]]></description>
+      <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.2.3/NachoLimits.dmg" length="5745121" type="application/octet-stream" sparkle:edSignature="fJKyBr2abZwl5YT9oC1UVugQk7n3lFv8aXEnnEeG2b5ngX7tEZg7R2nXi+FjD1Mz+DnrHVcH0YInC4jDqCzNCQ=="/>
+    </item>
   </channel>
 </rss>
