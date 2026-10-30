@@ -102,5 +102,15 @@
 <ul><li>Turning off &quot;Nacho&#x27;s lines and surprises&quot; now also hides the party hat, and stops the birthday and anniversary notifications.</li></ul>]]></description>
       <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.2.4/NachoLimits.dmg" length="5824670" type="application/octet-stream" sparkle:edSignature="NqwEFEGOQUVbgOcidEoXtX8Jbm+xdzMKPqyUuVyK/IA7xgr0TqQTn8YqW2kYxEYUImroOtNuPdZysVL2lXZVBA=="/>
     </item>
+    <item>
+      <title>Nacho Limits 0.2.5</title>
+      <pubDate>Fri, 30 Oct 2026 19:43:52 GMT</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What&#x27;s new</h3>
+<ul><li><strong>What&#x27;s new, after an update:</strong> when Nacho has updated himself, he says so once: &quot;Updated to 0.2.5. Click me for what&#x27;s new.&quot; One click opens the release notes; after that he&#x27;s back to his usual lines.</li></ul>]]></description>
+      <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.2.5/NachoLimits.dmg" length="5833292" type="application/octet-stream" sparkle:edSignature="BV2gnTG/Aj+o1blIo/B3lwwDj01JtwI0pRf/kmhCUfnXzaJiO264VSypjpeo8Y961ofho1yIhr+W14m2Fx2JAQ=="/>
+    </item>
   </channel>
 </rss>
