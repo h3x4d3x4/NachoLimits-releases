@@ -68,5 +68,17 @@
 <ul><li>Nacho now hides over full-screen games, including borderless ones and games that take over the mouse. He comes back when you leave the game, and still shows if you push the pointer against the top edge.</li></ul>]]></description>
       <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.2.1/NachoLimits.dmg" length="5661395" type="application/octet-stream" sparkle:edSignature="uuNCjpIA1Rb97ahhdKk4zBuq7z0rz3sFaPzba+OYJ4ZsXeuH2adJWctkPocHGC+5nPAzpxdBsootQBrU/olyBA=="/>
     </item>
+    <item>
+      <title>Nacho Limits 0.2.2</title>
+      <pubDate>Fri, 30 Oct 2026 18:14:13 GMT</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What&#x27;s new</h3>
+<ul><li><strong>Screens without a notch now get a menu-bar item:</strong> Nacho, your tightest limit with its countdown, and a small meter per Claude account. Click it and the panel drops down right under it, on that screen. Prefer it plain? Settings &gt; Notch &gt; Colourful menu bar item.</li><li><strong>Choose where Nacho appears:</strong> MacBook screen only, all screens, or the screens you pick (Settings &gt; Notch &gt; Show on).</li></ul>
+<h3>Fixes</h3>
+<ul><li>Only one screen opens at a time: hovering or opening Nacho on one screen closes it on the other.</li><li>VoiceOver can open the panel from the menu-bar item.</li><li>Check for Updates always shows its window: it no longer opens hidden behind the app you&#x27;re using, under the open notch, or not at all while a background check was running.</li><li>The floating pill under the menu bar is gone; the menu-bar item replaces it.</li><li>Opening Nacho Limits while another copy is running closes the other one, so it never shows twice.</li></ul>]]></description>
+      <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.2.2/NachoLimits.dmg" length="5722821" type="application/octet-stream" sparkle:edSignature="HRy0m2cacsESfJFyPTyT0PHH6WNF2HWnkexMF1XiadeDOSvzvJPD9aI3SiQhs/lbCSrIDKCRb5zXYnD2W4ULBg=="/>
+    </item>
   </channel>
 </rss>
