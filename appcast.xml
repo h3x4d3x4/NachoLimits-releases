@@ -17,5 +17,15 @@
 <ul><li>A fresh install no longer shows someone else&#x27;s account names; your accounts appear under their own folder names, ready to rename.</li><li>The DeepSeek and NanoGPT key fields are visible again, and pasting a key works.</li><li>Hovering the notch no longer flashes the wide layout before it opens.</li></ul>]]></description>
       <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.1.2/NachoLimits.dmg" length="3384591" type="application/octet-stream" sparkle:edSignature="r7vtIFRQMUsQBNF1PWyo4F6aOF7FwaoDW7EsukoFuuBxbA9Dggz0+fjZJUBe1ISUftGg02Hj+Zy0E4WOEV4hCQ=="/>
     </item>
+    <item>
+      <title>Nacho Limits 0.1.3</title>
+      <pubDate>Fri, 30 Oct 2026 02:19:49 GMT</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Fixes</h3>
+<ul><li>The closed notch shows the full account name again (&quot;Max 1h55m&quot;, not &quot;Ma&quot;).</li><li>The installer window points to nacholimits.hexadexa.io.</li></ul>]]></description>
+      <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.1.3/NachoLimits.dmg" length="3386233" type="application/octet-stream" sparkle:edSignature="Z/7Y+xO6+VqQc5z1EToFYGFYhcOwNAyhQbHOHFTTGXekXkLV0BIYHiU5Xm7MgddeWMSQ0jT9Zjg9yqQ5oiKvBA=="/>
+    </item>
   </channel>
 </rss>
