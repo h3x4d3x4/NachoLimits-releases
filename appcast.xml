@@ -90,5 +90,17 @@
 <ul><li><strong>Hide Nacho with a shortcut:</strong> ⌃⌥⌘N hides him from the notch and the menu bar, so the space next to the notch is free (for example for the menu bar&#x27;s overflow arrow). Press it again to bring him back; opening Nacho Limits or the open shortcut (⌥⌘U) also does. Change it in Settings &gt; General, or use Hide Nacho in the right-click menu.</li></ul>]]></description>
       <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.2.3/NachoLimits.dmg" length="5745121" type="application/octet-stream" sparkle:edSignature="fJKyBr2abZwl5YT9oC1UVugQk7n3lFv8aXEnnEeG2b5ngX7tEZg7R2nXi+FjD1Mz+DnrHVcH0YInC4jDqCzNCQ=="/>
     </item>
+    <item>
+      <title>Nacho Limits 0.2.4</title>
+      <pubDate>Fri, 30 Oct 2026 19:34:48 GMT</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What&#x27;s new</h3>
+<ul><li><strong>Click Nacho:</strong> he tells a joke. Some are about your actual numbers (&quot;Pro is going fast. Like me at a party.&quot;), some about the hour, most are just Nacho. Five quick clicks still get you rate-limited.</li><li><strong>Nacho&#x27;s birthday (30 October):</strong> a party hat, a few birthday lines, and one notification that day. Click him to hear why.</li><li><strong>Your anniversary with Nacho:</strong> once a year, on the day you first opened the app, he says hi, with a short recap of the windows he watched for you.</li><li><strong>Share card:</strong> on those days it wears the hat and carries the occasion.</li></ul>
+<h3>Fixes</h3>
+<ul><li>Turning off &quot;Nacho&#x27;s lines and surprises&quot; now also hides the party hat, and stops the birthday and anniversary notifications.</li></ul>]]></description>
+      <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.2.4/NachoLimits.dmg" length="5824670" type="application/octet-stream" sparkle:edSignature="NqwEFEGOQUVbgOcidEoXtX8Jbm+xdzMKPqyUuVyK/IA7xgr0TqQTn8YqW2kYxEYUImroOtNuPdZysVL2lXZVBA=="/>
+    </item>
   </channel>
 </rss>
