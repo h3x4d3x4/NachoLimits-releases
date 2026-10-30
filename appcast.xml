@@ -36,5 +36,15 @@
       <description><![CDATA[<ul><li>Glass mode is now readable over bright windows, in both the hover peek and the open panel.</li><li>Columns with no data (such as the 24 h graph) stay hidden until there is something to show, so the rest get the room.</li></ul>]]></description>
       <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.1.4/NachoLimits.dmg" length="3390419" type="application/octet-stream" sparkle:edSignature="469mNBCVTW4jQgduUlz7l6Y/XMTcsPhZKhFw5yJoUxl3gqjIUKStwAJyWB60WbBQtHqJpQRTVMK/G3mG3BvaDQ=="/>
     </item>
+    <item>
+      <title>Nacho Limits 0.1.5</title>
+      <pubDate>Fri, 30 Oct 2026 02:55:09 GMT</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What&#x27;s new</h3>
+<ul><li>Nacho moved into your notch: a tiny face on the left shows how your tightest limit is doing (calm, getting warm, sweating, out, napping after a reset). Prefer a ring or nothing? Settings &gt; Display &gt; Left side.</li></ul>]]></description>
+      <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.1.5/NachoLimits.dmg" length="3414859" type="application/octet-stream" sparkle:edSignature="hKcuhzUmw2Gm+c/Qlm0WrwpcTNna31jMrKkxno3efxiq2FdcR/+G5rahis8H9wubjXEsVhfB/kaN05Hm/4dqBw=="/>
+    </item>
   </channel>
 </rss>
