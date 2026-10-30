@@ -112,5 +112,15 @@
 <ul><li><strong>What&#x27;s new, after an update:</strong> when Nacho has updated himself, he says so once: &quot;Updated to 0.2.5. Click me for what&#x27;s new.&quot; One click opens the release notes; after that he&#x27;s back to his usual lines.</li></ul>]]></description>
       <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.2.5/NachoLimits.dmg" length="5833292" type="application/octet-stream" sparkle:edSignature="BV2gnTG/Aj+o1blIo/B3lwwDj01JtwI0pRf/kmhCUfnXzaJiO264VSypjpeo8Y961ofho1yIhr+W14m2Fx2JAQ=="/>
     </item>
+    <item>
+      <title>Nacho Limits 0.2.6</title>
+      <pubDate>Fri, 30 Oct 2026 19:56:58 GMT</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>0.2.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Fixes</h3>
+<ul><li>Settings fits each tab: the window grows to show everything on the tab instead of cutting it off (General no longer hides Updates). Only a tab taller than your screen scrolls.</li><li>Nacho&#x27;s 5-hour break is a real break: after five quick clicks he only says the rate-limit line, ignores clicks until it&#x27;s over, and then goes back to his usual line instead of repeating earlier jokes.</li></ul>]]></description>
+      <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.2.6/NachoLimits.dmg" length="5835977" type="application/octet-stream" sparkle:edSignature="XFZFKKbiu2QC+FrFtZgDKYmuK0v/PSP+dPY77EBboSXpypkTb+NAfg6y8SXLFdn/uVZyk82VK1qmTlGzDh4BAA=="/>
+    </item>
   </channel>
 </rss>
