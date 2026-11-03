@@ -122,5 +122,17 @@
 <ul><li>Settings fits each tab: the window grows to show everything on the tab instead of cutting it off (General no longer hides Updates). Only a tab taller than your screen scrolls.</li><li>Nacho&#x27;s 5-hour break is a real break: after five quick clicks he only says the rate-limit line, ignores clicks until it&#x27;s over, and then goes back to his usual line instead of repeating earlier jokes.</li></ul>]]></description>
       <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.2.6/NachoLimits.dmg" length="5835977" type="application/octet-stream" sparkle:edSignature="XFZFKKbiu2QC+FrFtZgDKYmuK0v/PSP+dPY77EBboSXpypkTb+NAfg6y8SXLFdn/uVZyk82VK1qmTlGzDh4BAA=="/>
     </item>
+    <item>
+      <title>Nacho Limits 0.2.7</title>
+      <pubDate>Tue, 03 Nov 2026 16:27:22 GMT</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>0.2.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>New</h3>
+<ul><li>The closed countdown says what it counts: &quot;Pro A out 20m&quot; when you&#x27;re on pace to run out, &quot;↻ 1h55m&quot; until a reset.</li><li>Account rings shows one ring per Claude account beside the notch, as the name says.</li><li>Hovering the notch suggests the account to use next when one is nearly out.</li><li>Settings &gt; Alerts tells you when macOS notifications are off for Nacho Limits, links to the switch, and can send a test notification.</li><li>Keyboard: Tab moves between rows in the open panel; the right-click menu and the band&#x27;s buttons show their shortcuts.</li><li>Reduce Transparency turns the glass panel solid.</li></ul>
+<h3>Fixes</h3>
+<ul><li>Portuguese: &quot;Semana&quot; no longer cuts off in Accounts, and the Week summary wraps instead of trailing off.</li><li>The open panel keeps one width when you switch views, and its scroll bar stays clear of the rounded corner.</li><li>Timeline labels for &quot;out&quot; and &quot;reset&quot; no longer overlap when they&#x27;re close.</li><li>Clearer wording: &quot;88% of its 5 h window left&quot;, old readings say how old they are everywhere, and an old Claude reading isn&#x27;t shown in green in Settings.</li><li>Settings: API key captions sit on two tidy lines, the window title follows the tab, and the menu-bar colour option only shows when a menu-bar item exists.</li></ul>]]></description>
+      <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.2.7/NachoLimits.dmg" length="5859200" type="application/octet-stream" sparkle:edSignature="kYhlp4IuYcTRWb5qmxHL7xii8+j0Igk2DctUGQ+KAPCq6pvCN5S/IMMmqRkm3x/Yhkn/PsgB3U3ewoHfENnzDg=="/>
+    </item>
   </channel>
 </rss>
