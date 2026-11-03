@@ -134,5 +134,15 @@
 <ul><li>Portuguese: &quot;Semana&quot; no longer cuts off in Accounts, and the Week summary wraps instead of trailing off.</li><li>The open panel keeps one width when you switch views, and its scroll bar stays clear of the rounded corner.</li><li>Timeline labels for &quot;out&quot; and &quot;reset&quot; no longer overlap when they&#x27;re close.</li><li>Clearer wording: &quot;88% of its 5 h window left&quot;, old readings say how old they are everywhere, and an old Claude reading isn&#x27;t shown in green in Settings.</li><li>Settings: API key captions sit on two tidy lines, the window title follows the tab, and the menu-bar colour option only shows when a menu-bar item exists.</li></ul>]]></description>
       <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.2.7/NachoLimits.dmg" length="5859200" type="application/octet-stream" sparkle:edSignature="kYhlp4IuYcTRWb5qmxHL7xii8+j0Igk2DctUGQ+KAPCq6pvCN5S/IMMmqRkm3x/Yhkn/PsgB3U3ewoHfENnzDg=="/>
     </item>
+    <item>
+      <title>Nacho Limits 0.2.8</title>
+      <pubDate>Tue, 03 Nov 2026 16:35:51 GMT</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>0.2.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Fixes</h3>
+<ul><li>The open panel no longer scrolls when you open a row&#x27;s details: it grows to fit the view, the details and Nacho&#x27;s line, and only scrolls if your screen is too short.</li></ul>]]></description>
+      <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.2.8/NachoLimits.dmg" length="5860393" type="application/octet-stream" sparkle:edSignature="BtG4fC880RxuVJkJluotVWa0tF5eYA7VL0Lh0/c/hrWGbZiTKCODvgA6/Y+3fsmTrdpLYH1eQXbWNz1qZxK5Dw=="/>
+    </item>
   </channel>
 </rss>
