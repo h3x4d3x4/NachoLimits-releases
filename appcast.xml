@@ -144,5 +144,17 @@
 <ul><li>The open panel no longer scrolls when you open a row&#x27;s details: it grows to fit the view, the details and Nacho&#x27;s line, and only scrolls if your screen is too short.</li></ul>]]></description>
       <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.2.8/NachoLimits.dmg" length="5860393" type="application/octet-stream" sparkle:edSignature="BtG4fC880RxuVJkJluotVWa0tF5eYA7VL0Lh0/c/hrWGbZiTKCODvgA6/Y+3fsmTrdpLYH1eQXbWNz1qZxK5Dw=="/>
     </item>
+    <item>
+      <title>Nacho Limits 0.3.10</title>
+      <pubDate>Fri, 13 Nov 2026 14:24:28 GMT</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>0.3.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>New</h3>
+<ul><li>Hovering over the notch can show the accounts you choose, in your order: Settings &gt; Notch &gt; On hover. The 3 tightest limits stay the default.</li><li>Claude account names stay with their Claude login. Settings &gt; Accounts shows which account each Claude Code folder is signed into. If a folder is signed into another account, the name moves with that account, and numbers from the old login are dropped. A folder signed into the same account as another one is flagged instead of showing the same numbers twice.</li><li>`nacho tightest` and `nacho room` answer in one sentence: the limit closest to running out, and the Claude account with the most room.</li></ul>
+<h3>Fixes</h3>
+<ul><li>The open notch always closes with Esc or a click outside, including a click just below it, switching apps with ⌘-Tab, changing Spaces and when the screen sleeps.</li></ul>]]></description>
+      <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.3.10/NachoLimits.dmg" length="6193943" type="application/octet-stream" sparkle:edSignature="a4BywBNl3i4LKM3+/5aV28mmg44g5nJwzPZTsYf2Vi7p43OPqn40XdGLBNZtotPihTICowVqQ6aZBf0fvBOACQ=="/>
+    </item>
   </channel>
 </rss>
