@@ -200,5 +200,15 @@
 <ul><li>Settings opens on the first click. Before, it could open behind the app in front and need a second click.</li></ul>]]></description>
       <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.3.14/NachoLimits.dmg" length="6300029" type="application/octet-stream" sparkle:edSignature="jbdsjkWzb2JptDBaG3JP4iBCxFrpxYUhLAn0HZZMNcg4QeBVGN9PIMeCGKPMMO+QdWD5OnDPI8jRMukEKHgkDw=="/>
     </item>
+    <item>
+      <title>Nacho Limits 0.3.15</title>
+      <pubDate>Fri, 13 Nov 2026 17:19:02 GMT</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>0.3.15</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Fixes</h3>
+<ul><li>Settings &gt; Accounts &gt; Gemini switches from &quot;Waiting for agy&quot; to connected as soon as agy&#x27;s first numbers arrive, without reopening Settings.</li></ul>]]></description>
+      <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.3.15/NachoLimits.dmg" length="6300167" type="application/octet-stream" sparkle:edSignature="F66ugT1/TidSj5I0Y7R80vH5VaYzfceAl0I0+mT2VbseloZaEI1Ag+fUH+Ky759ddDroJihojPfxffBkQ8rmBg=="/>
+    </item>
   </channel>
 </rss>
