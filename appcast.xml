@@ -210,5 +210,15 @@
 <ul><li>Settings &gt; Accounts &gt; Gemini switches from &quot;Waiting for agy&quot; to connected as soon as agy&#x27;s first numbers arrive, without reopening Settings.</li></ul>]]></description>
       <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.3.15/NachoLimits.dmg" length="6300167" type="application/octet-stream" sparkle:edSignature="F66ugT1/TidSj5I0Y7R80vH5VaYzfceAl0I0+mT2VbseloZaEI1Ag+fUH+Ky759ddDroJihojPfxffBkQ8rmBg=="/>
     </item>
+    <item>
+      <title>Nacho Limits 0.3.16</title>
+      <pubDate>Fri, 13 Nov 2026 17:26:32 GMT</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>0.3.16</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Fixes</h3>
+<ul><li>A Claude account no longer keeps another login&#x27;s weekly number. If a Claude Code folder was briefly signed into a different account, that account&#x27;s week could stick to the row until it reset. Now the account&#x27;s next reply puts its own number back.</li></ul>]]></description>
+      <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.3.16/NachoLimits.dmg" length="6302983" type="application/octet-stream" sparkle:edSignature="cDgv02hbWeSt93riINRQKEH/J8Cbzsye/y+SUo3/g+SWGrr9JFt5nduONVwjKvmgbZPaRfvRQ04B6NRqeRImCQ=="/>
+    </item>
   </channel>
 </rss>
