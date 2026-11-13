@@ -220,5 +220,17 @@
 <ul><li>A Claude account no longer keeps another login&#x27;s weekly number. If a Claude Code folder was briefly signed into a different account, that account&#x27;s week could stick to the row until it reset. Now the account&#x27;s next reply puts its own number back.</li></ul>]]></description>
       <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.3.16/NachoLimits.dmg" length="6302983" type="application/octet-stream" sparkle:edSignature="cDgv02hbWeSt93riINRQKEH/J8Cbzsye/y+SUo3/g+SWGrr9JFt5nduONVwjKvmgbZPaRfvRQ04B6NRqeRImCQ=="/>
     </item>
+    <item>
+      <title>Nacho Limits 0.3.17</title>
+      <pubDate>Fri, 13 Nov 2026 22:45:41 GMT</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>0.3.17</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>New</h3>
+<ul><li>Balances in the list have a card icon and a narrower amount. Below your low-balance alert they turn amber and say &quot;running low&quot;, and hovering shows the alert level. Clicking a balance row no longer opens an empty detail.</li></ul>
+<h3>Fixes</h3>
+<ul><li>Launch and `nacho next` start the right account even when your terminal already sets `CLAUDE_CONFIG_DIR`. Before, the command for the default account could open another one.</li><li>The Settings window takes the keyboard straight away, so typing or pasting a key no longer goes to the app behind it. While Settings is open, Nacho shows in the Dock; ⌘W closes the window.</li><li>The ready-made scripts no longer offer the old Gemini template: Gemini has been built in since 0.3.12.</li><li>On screens without a notch, clicking the menu-bar item while the panel is open now closes it. Before, the panel closed and opened again.</li></ul>]]></description>
+      <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.3.17/NachoLimits.dmg" length="6356600" type="application/octet-stream" sparkle:edSignature="ZvPhN2pmkkBpX5RzpYoUQBVJ9yQv8aFxK6HCMS6qCt2kyqNiRXLc8gbk+gBFvQuA3Z5tD1SSSL80d01dtmSlCw=="/>
+    </item>
   </channel>
 </rss>
