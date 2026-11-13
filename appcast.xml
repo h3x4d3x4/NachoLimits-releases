@@ -232,5 +232,15 @@
 <ul><li>Launch and `nacho next` start the right account even when your terminal already sets `CLAUDE_CONFIG_DIR`. Before, the command for the default account could open another one.</li><li>The Settings window takes the keyboard straight away, so typing or pasting a key no longer goes to the app behind it. While Settings is open, Nacho shows in the Dock; ⌘W closes the window.</li><li>The ready-made scripts no longer offer the old Gemini template: Gemini has been built in since 0.3.12.</li><li>On screens without a notch, clicking the menu-bar item while the panel is open now closes it. Before, the panel closed and opened again.</li></ul>]]></description>
       <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.3.17/NachoLimits.dmg" length="6356600" type="application/octet-stream" sparkle:edSignature="ZvPhN2pmkkBpX5RzpYoUQBVJ9yQv8aFxK6HCMS6qCt2kyqNiRXLc8gbk+gBFvQuA3Z5tD1SSSL80d01dtmSlCw=="/>
     </item>
+    <item>
+      <title>Nacho Limits 0.3.18</title>
+      <pubDate>Fri, 13 Nov 2026 23:39:40 GMT</pubDate>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>0.3.18</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>New</h3>
+<ul><li>Settings has a new Switching tab for moving between Claude accounts. Choose when to switch (from 60% used up to full, on the 5-hour limit, the weekly one or both), how Nacho tells you (notification and notch, notch only, or off), and whether it copies the next account&#x27;s launch command for you.</li><li>Choose how the next account is picked: bigger plan first, most room, resets soonest, or your own order. Each account can be set to Use, Last resort or Don&#x27;t use, in Settings or from the row&#x27;s menu.</li><li>With accounts on different plans, the suggestion now prefers the bigger plan. To get the old behaviour back, pick Most room in Settings &gt; Switching.</li><li>New sessions can start on the best account by themselves: pick &quot;New sessions start on the best account&quot; and add the one line it shows to `~/.zshrc`. It uses the new `nacho env`. Nacho never moves a session that is already running.</li><li>When every account is near its limit, the panel says which one frees up first, and when.</li><li>`nacho next --prefer &lt;name&gt;` and `--avoid &lt;name&gt;` change the pick for one run. `nacho --json` now includes the pick.</li><li>A Prefer account shortcut in the Shortcuts app.</li></ul>]]></description>
+      <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.3.18/NachoLimits.dmg" length="7322072" type="application/octet-stream" sparkle:edSignature="Tregsfs1q4CplwbP4yZuO0yF6dzByt6dMM3oAJQEN2KXjaWoZQXzOx0jTu6/+C+CMA0cAcB1lP5Q3aB6Vzw4Aw=="/>
+    </item>
   </channel>
 </rss>
