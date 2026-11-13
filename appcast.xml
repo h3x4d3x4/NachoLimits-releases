@@ -156,5 +156,15 @@
 <ul><li>The open notch always closes with Esc or a click outside, including a click just below it, switching apps with ⌘-Tab, changing Spaces and when the screen sleeps.</li></ul>]]></description>
       <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.3.10/NachoLimits.dmg" length="6193943" type="application/octet-stream" sparkle:edSignature="a4BywBNl3i4LKM3+/5aV28mmg44g5nJwzPZTsYf2Vi7p43OPqn40XdGLBNZtotPihTICowVqQ6aZBf0fvBOACQ=="/>
     </item>
+    <item>
+      <title>Nacho Limits 0.3.11</title>
+      <pubDate>Fri, 13 Nov 2026 14:38:10 GMT</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>0.3.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Fixes</h3>
+<ul><li>A plan reset shows up right away. Before, an account that had its limit reset kept showing the old percentage until the window ended. A Claude Code session that&#x27;s sitting idle no longer puts an older number back either.</li></ul>]]></description>
+      <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.3.11/NachoLimits.dmg" length="6247568" type="application/octet-stream" sparkle:edSignature="Q+pwrH5N0YuJ1n10jmW+KCxwTF3GaWGXtI3NmivUPdtyHFryEvmyYu3rR/DIgMoJh/ucBZrmqujMxZwoxZgwCQ=="/>
+    </item>
   </channel>
 </rss>
