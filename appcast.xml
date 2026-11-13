@@ -166,5 +166,15 @@
 <ul><li>A plan reset shows up right away. Before, an account that had its limit reset kept showing the old percentage until the window ended. A Claude Code session that&#x27;s sitting idle no longer puts an older number back either.</li></ul>]]></description>
       <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.3.11/NachoLimits.dmg" length="6247568" type="application/octet-stream" sparkle:edSignature="Q+pwrH5N0YuJ1n10jmW+KCxwTF3GaWGXtI3NmivUPdtyHFryEvmyYu3rR/DIgMoJh/ucBZrmqujMxZwoxZgwCQ=="/>
     </item>
+    <item>
+      <title>Nacho Limits 0.3.12</title>
+      <pubDate>Fri, 13 Nov 2026 15:37:34 GMT</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>0.3.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>New</h3>
+<ul><li>Gemini plan limits. If you use the Antigravity CLI (`agy`), open Settings &gt; Accounts &gt; Gemini and click Connect. Your 5-hour and weekly Gemini limits then show up next to the others while agy is open. agy keeps its own status line, and Disconnect puts everything back.</li></ul>]]></description>
+      <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.3.12/NachoLimits.dmg" length="6283237" type="application/octet-stream" sparkle:edSignature="2DPGgcMNux02xK+ZVJAUC8/LHUkddWn/3tm39eACxMUZXRTwvX8YeujT+rSrpMtpwj3cXCHPdgb6y6CAs5w4Dg=="/>
+    </item>
   </channel>
 </rss>
