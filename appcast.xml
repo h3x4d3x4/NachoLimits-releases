@@ -188,5 +188,17 @@
 <ul><li>Settings &gt; Accounts &gt; Gemini says when it&#x27;s still waiting for agy&#x27;s first numbers: open agy, or restart a window that was already open.</li></ul>]]></description>
       <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.3.13/NachoLimits.dmg" length="6284869" type="application/octet-stream" sparkle:edSignature="LScmJRBephD+BnCUrhevjSFtgqV8+hl/hTfZInDvf8cQxprLZpD5+/XVORKe8Hs1o71xPt56gDTLHglQRKanBQ=="/>
     </item>
+    <item>
+      <title>Nacho Limits 0.3.14</title>
+      <pubDate>Fri, 13 Nov 2026 16:30:05 GMT</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>0.3.14</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>New</h3>
+<ul><li>API accounts in lists: Settings &gt; Notch. Balance accounts such as NanoGPT and DeepSeek get their own row in the open list and show up on hover, instead of a small chip at the bottom. Off by default.</li></ul>
+<h3>Fixes</h3>
+<ul><li>Settings opens on the first click. Before, it could open behind the app in front and need a second click.</li></ul>]]></description>
+      <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.3.14/NachoLimits.dmg" length="6300029" type="application/octet-stream" sparkle:edSignature="jbdsjkWzb2JptDBaG3JP4iBCxFrpxYUhLAn0HZZMNcg4QeBVGN9PIMeCGKPMMO+QdWD5OnDPI8jRMukEKHgkDw=="/>
+    </item>
   </channel>
 </rss>
