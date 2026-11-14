@@ -276,5 +276,17 @@
 <ul><li>Nacho is sharp at every size (he was blurry when drawn big).</li></ul>]]></description>
       <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.4.0/NachoLimits.dmg" length="8263832" type="application/octet-stream" sparkle:edSignature="eiSViT0K+Zqg60nSNWhNwHAS8dzAeJo+hr/Yp2XslDa2dEJfFa6CPg7IFyDpOvUhtbxysXg8Q3Qtnp5HsFR2Aw=="/>
     </item>
+    <item>
+      <title>Nacho Limits 0.4.1</title>
+      <pubDate>Sat, 14 Nov 2026 12:02:07 GMT</pubDate>
+      <sparkle:version>28</sparkle:version>
+      <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>New</h3>
+<ul><li>Hovering the notch shows every account the way Solo does: both windows as rings (the 5-hour inside, the week outside) and a live countdown once the reset is less than a day away. It works with any number of accounts, Solo on or off; Settings &gt; Notch &gt; On hover still picks which ones.</li></ul>
+<h3>Fixes</h3>
+<ul><li>With only API balances, hovering the notch lists them instead of &quot;No readings yet&quot;.</li><li>A week limit no longer counts down when its reset is more than a day away, and an old reading shows its age instead of a countdown.</li></ul>]]></description>
+      <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.4.1/NachoLimits.dmg" length="8253387" type="application/octet-stream" sparkle:edSignature="GTif63XMU3W68vcXTFL1S4C1AGGOWUXRaEFie6Oqun59DBiWvcxDqiNogbNdB/VMAyItIMtqlYgjh21I9dzUAA=="/>
+    </item>
   </channel>
 </rss>
