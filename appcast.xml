@@ -264,5 +264,17 @@
 <ul><li>Copy buttons now say Copied, and VoiceOver announces it.</li></ul>]]></description>
       <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.3.20/NachoLimits.dmg" length="7879612" type="application/octet-stream" sparkle:edSignature="FnO36F72q6ZPMqYUVNYfvxDARSA8grPApTquRx2ti4kbSp4ld/31rt1ouUFSuiFlgiAqMLFuV2esJDKZwMkcDw=="/>
     </item>
+    <item>
+      <title>Nacho Limits 0.4.0</title>
+      <pubDate>Sat, 14 Nov 2026 10:39:32 GMT</pubDate>
+      <sparkle:version>27</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>New</h3>
+<ul><li>Solo view. With one or two accounts, the open notch makes each one big: rings for the 5-hour window and the week, a live countdown (to running out when that comes before the reset), the pace in plain words, this week&#x27;s stats and the last 24 hours. With one account, Nacho has a lot more to say, in a speech bubble. Turn it off in Settings &gt; Notch if you prefer the list.</li><li>With one account, hovering the notch shows its rings, the countdown and Nacho&#x27;s line, and the Account rings and Mini meters styles show its 5-hour window and its week.</li></ul>
+<h3>Fixes</h3>
+<ul><li>Nacho is sharp at every size (he was blurry when drawn big).</li></ul>]]></description>
+      <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.4.0/NachoLimits.dmg" length="8263832" type="application/octet-stream" sparkle:edSignature="eiSViT0K+Zqg60nSNWhNwHAS8dzAeJo+hr/Yp2XslDa2dEJfFa6CPg7IFyDpOvUhtbxysXg8Q3Qtnp5HsFR2Aw=="/>
+    </item>
   </channel>
 </rss>
