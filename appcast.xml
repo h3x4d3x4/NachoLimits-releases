@@ -252,5 +252,17 @@
 <ul><li>The next Claude account follows your rule and order again when an account hasn&#x27;t been used for a while. In 0.3.18 such an account could lose to the one you were on, so &quot;Bigger plan first&quot; or &quot;My order&quot; could suggest the wrong account.</li></ul>]]></description>
       <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.3.19/NachoLimits.dmg" length="7319975" type="application/octet-stream" sparkle:edSignature="tKhVKZGbDaf9J+z2tygheKRCvlzuktYj69fhDL9p4RWIu7M4Mp7vEi4qpt2zBIEC8ESZoKUOL7GMZVKKFxrlDQ=="/>
     </item>
+    <item>
+      <title>Nacho Limits 0.3.20</title>
+      <pubDate>Sat, 14 Nov 2026 10:06:27 GMT</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>0.3.20</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>New</h3>
+<ul><li>Continue your conversation on the next account. When it&#x27;s time to switch, Continue ↗ (in the detail, the row&#x27;s menu and the Accounts view) opens a copy of your latest Claude Code conversation on the suggested account, in the same folder. The old window keeps running, so let it finish its reply. When the two accounts keep their conversations apart, Nacho copies that one conversation across first.</li><li>Continue automatically (Settings &gt; Switching &gt; What happens): at the switch level, Nacho opens the copy for you, once per conversation.</li><li>Launch and Continue can open Ghostty, or just copy the command (&quot;Copy only&quot;). Settings lists the terminals you have installed.</li><li>Gemini plans with a separate model quota (such as the Gemini 4 Argon weekly limit on paid plans) now show it as a row of its own, &quot;Gemini Argon&quot;.</li></ul>
+<h3>Fixes</h3>
+<ul><li>Copy buttons now say Copied, and VoiceOver announces it.</li></ul>]]></description>
+      <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.3.20/NachoLimits.dmg" length="7879612" type="application/octet-stream" sparkle:edSignature="FnO36F72q6ZPMqYUVNYfvxDARSA8grPApTquRx2ti4kbSp4ld/31rt1ouUFSuiFlgiAqMLFuV2esJDKZwMkcDw=="/>
+    </item>
   </channel>
 </rss>
