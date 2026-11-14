@@ -288,5 +288,15 @@
 <ul><li>With only API balances, hovering the notch lists them instead of &quot;No readings yet&quot;.</li><li>A week limit no longer counts down when its reset is more than a day away, and an old reading shows its age instead of a countdown.</li></ul>]]></description>
       <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.4.1/NachoLimits.dmg" length="8253387" type="application/octet-stream" sparkle:edSignature="GTif63XMU3W68vcXTFL1S4C1AGGOWUXRaEFie6Oqun59DBiWvcxDqiNogbNdB/VMAyItIMtqlYgjh21I9dzUAA=="/>
     </item>
+    <item>
+      <title>Nacho Limits 0.4.2</title>
+      <pubDate>Sat, 14 Nov 2026 12:37:25 GMT</pubDate>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Fixes</h3>
+<ul><li>The live countdown on hover now says what it counts to: &quot;resets in 1:09:55&quot; instead of a bare clock.</li></ul>]]></description>
+      <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.4.2/NachoLimits.dmg" length="8253216" type="application/octet-stream" sparkle:edSignature="2IbetfD5iUZhzKNCdD6PYXpZzkhBoltnp3gOJJAjaCqUvSzMcv2cARu1XVyRL8xGwRrAhqmliw/16l9KBEL3CA=="/>
+    </item>
   </channel>
 </rss>
