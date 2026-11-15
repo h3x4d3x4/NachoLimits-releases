@@ -298,5 +298,17 @@
 <ul><li>The live countdown on hover now says what it counts to: &quot;resets in 1:09:55&quot; instead of a bare clock.</li></ul>]]></description>
       <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.4.2/NachoLimits.dmg" length="8253216" type="application/octet-stream" sparkle:edSignature="2IbetfD5iUZhzKNCdD6PYXpZzkhBoltnp3gOJJAjaCqUvSzMcv2cARu1XVyRL8xGwRrAhqmliw/16l9KBEL3CA=="/>
     </item>
+    <item>
+      <title>Nacho Limits 0.4.3</title>
+      <pubDate>Sun, 15 Nov 2026 10:29:34 GMT</pubDate>
+      <sparkle:version>30</sparkle:version>
+      <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>New</h3>
+<ul><li>Choose a quota window in account details and Solo view. The chart shows that window’s history beside a dotted even-use guide; a partial history is labelled clearly.</li><li>Live Codex details show the account and plan reported by the installed Codex CLI.</li></ul>
+<h3>Fixes</h3>
+<ul><li>In live Codex mode, a detected account change or sign-out no longer keeps the previous account’s limits, trends or alerts. Existing account pins and hidden rows stay in place.</li><li>Codex chooses its own limit deterministically and handles weekly-only and reversed windows. Monthly and other known-length windows use their actual duration for pace.</li><li>One temporary automatic network failure stays quiet while the previous reading is fresh. Manual refresh errors still appear immediately.</li><li>Public status notices distinguish Codex incidents from broader OpenAI issues and show when status could not be checked.</li><li>Malformed Boolean numbers from provider data no longer appear as percentages or timestamps.</li></ul>]]></description>
+      <enclosure url="https://github.com/h3x4d3x4/NachoLimits-releases/releases/download/v0.4.3/NachoLimits.dmg" length="9140158" type="application/octet-stream" sparkle:edSignature="TJI0jzq8Vh7R1PjNd8GKBms1OIPF2ny7pIkJ5rhZiiaacdBgsusZS/cLfee+KUhwmHUGdccbSCmcYvVTchUOBQ=="/>
+    </item>
   </channel>
 </rss>
